@@ -12,15 +12,15 @@
 
 -----
 
-![](https://github.com/tinggengyan/PinnedListView/tree/master/screenshot/1.jpg)  
+![](https://github.com/tinggengyan/PinnedListView/blob/master/screenshot/1.jpg)  
 
 -----
 
-![](https://github.com/tinggengyan/PinnedListView/tree/master/screenshot/2.jpg) 
+![](https://github.com/tinggengyan/PinnedListView/blob/master/screenshot/2.jpg) 
 
 -----
 
 
-![](https://github.com/tinggengyan/PinnedListView/tree/master/screenshot/3.jpg)   
+![](https://github.com/tinggengyan/PinnedListView/blob/master/screenshot/3.jpg)   
 
 
